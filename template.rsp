@@ -1,0 +1,8 @@
+-cfg duel_map01.cfg
+-iwad doom2.wad
+-file bfg_training.wad sounds_.wad
+-log
+-clog
+-flog
+-wlog
+-port 10666
